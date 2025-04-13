@@ -1,4 +1,4 @@
-# Consciousness + Artifices (@CoArtifices)
+# Consciousness + Artifices
 
 ## **Who we are**
 We are a pioneering team dedicated to redefining artificial intelligence, advanced computing, and the intersections of physics, mathematics, and engineering. In our repository, we tackle innovative paradigms that transform the way we understand and design intelligent systems.
@@ -10,8 +10,8 @@ PhasorFlow delves into the geometric and physical representation of intelligence
 ### **NLSON**  
 An innovative data exchange standard inspired by JSON, designed for intelligent entities capable of interpreting natural language, conceptualizing, and developing. NLSON optimizes communication between intelligent systems, elevating data exchanges to a deeper contextual level.
 
-### **Funbers**  
-"Funbers" is a revolutionary numerical system that redefines the concept of floating-point numbers. Here, both the mantissa and exponent are represented by wave functions. These functions, defined by their cycles, enable the construction of numbers with theoretical infinite precision and magnitude. Operations, like addition, are performed directly in the domain of wave functions. While still under development, this approach promises to overcome the limitations of current standards and expand the scope of computational mathematics.
+### **Fumbers**  
+"Fumbers" is a revolutionary numerical system that redefines the concept of floating-point numbers. Here, both the mantissa and exponent are represented by wave functions. These functions, defined by their cycles, enable the construction of numbers with theoretical infinite precision and magnitude. Operations, like addition, are performed directly in the domain of wave functions. While still under development, this approach promises to overcome the limitations of current standards and expand the scope of computational mathematics.
 
 ## **Interests**
 - Cutting-edge artificial intelligence  
