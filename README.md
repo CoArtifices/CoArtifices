@@ -1,7 +1,7 @@
 # Consciousness + Artifices
 
 ## **Who we are**
-We are a pioneering team dedicated to redefining artificial intelligence, advanced computing, and the intersections of physics, mathematics, and engineering. In our repository, we tackle innovative paradigms that transform the way we understand and design intelligent systems.
+We are a small team still in its early stages of formation, with the purpose of redefining artificial intelligence, advanced computing, and the intersections of physics, mathematics, and engineering. In our repository, will be address innovative paradigms that transform the way we understand and design intelligent systems.
 
 ## **Featured Projects**
 ### **PhasorFlow**
