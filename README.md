@@ -4,8 +4,8 @@
 We are a pioneering team dedicated to redefining artificial intelligence, advanced computing, and the intersections of physics, mathematics, and engineering. In our repository, we tackle innovative paradigms that transform the way we understand and design intelligent systems.
 
 ## **Featured Projects**
-### **PhasorFlow**  
-a p between intelligence and the physical world. PħF is not merely a new paradigm in artificial intelligence—it is an inquiry into the very nature of intelligence itself. 
+### **PhasorFlow**
+Arevolutionary library bridging the gap between intelligence and the physical world. PħF is not merely a new paradigm in artificial intelligence—it is an inquiry into the very nature of intelligence itself. 
 
 PħF provides a framework for the **development, training, and measurement of intelligent architectures** that move beyond the confines of traditional neural networks. Instead, it introduces **H networks**, a groundbreaking generalization of intelligent models based on **wave propagation** and **physical interactions**. This paradigm draws from the principles of phasorial physics, replacing neuron-inspired computation with architectures that are inherently tied to physical laws and interactions.
 
@@ -13,7 +13,7 @@ PħF provides a framework for the **development, training, and measurement of in
 An innovative data exchange standard inspired by JSON, designed for intelligent entities capable of interpreting natural language, conceptualizing, and developing. NLSON optimizes communication between intelligent systems, elevating data exchanges to a deeper contextual level.
 
 ### **Fumbers**  
-"Fumbers" is a revolutionary numerical system that redefines the concept of floating-point numbers. Here, both the mantissa and exponent are represented by wave functions. These functions, defined by their cycles, enable the construction of numbers with theoretical infinite precision and magnitude. Operations, like addition, are performed directly in the domain of wave functions. While still under development, this approach promises to overcome the limitations of current standards and expand the scope of computational mathematics.
+A revolutionary numerical system that redefines the concept of floating-point numbers. Here, both the mantissa and exponent are represented by wave functions. These functions, defined by their cycles, enable the construction of numbers with theoretical infinite precision and magnitude. Operations, like addition, are performed directly in the domain of wave functions. While still under development, this approach promises to overcome the limitations of current standards and expand the scope of computational mathematics.
 
 ## **Interests**
 - Cutting-edge artificial intelligence  
