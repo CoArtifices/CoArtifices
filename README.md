@@ -22,7 +22,19 @@ A revolutionary numerical system that redefines the concept of floating-point nu
 - Innovative engineering for intelligent systems  
 
 ## **Collaboration**
-We are actively seeking collaboration in these areas. If you share our passion for exploring new frontiers in artificial intelligence, computing, and science, feel free to join us. Your contribution can make a significant impact on the development of disruptive technologies.
+We are actively seeking collaboration in these areas. If you share our passion for exploring new frontiers in artificial intelligence, computing, and science, feel free to join us or support us financially. Your contribution can make a significant impact on the development of disruptive technologies.
 
 ## **Contact**
 If you are interested in collaborating, please reach out to us through our repository or send us an email. We are eager to hear your ideas and work together to build the future of intelligence.
+
+ideas and comments (thanks):
+[heware@gmail.com](mailto:heware@gmail.com)
+
+Sponsor contributions (thanks):
+[paypal.me](https://www.paypal.me/heware)
+
+Bitcoin deposit address:
+1GVddz2tckWw6BeyvKexGaCXMDKedNYHmo
+
+Ethereum deposit address:
+0x6b6eff3de4c8c5025adf54bfb6f25ed7b1562cd7
