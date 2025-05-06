@@ -5,7 +5,9 @@ We are a pioneering team dedicated to redefining artificial intelligence, advanc
 
 ## **Featured Projects**
 ### **PhasorFlow**  
-PhasorFlow delves into the geometric and physical representation of intelligence through wave propagation and physical interactions. This project challenges traditional paradigms in mathematics and computing by incorporating non-orthogonal bases and hypercomplex networks to develop new intelligent architectures.
+a p between intelligence and the physical world. PħF is not merely a new paradigm in artificial intelligence—it is an inquiry into the very nature of intelligence itself. 
+
+PħF provides a framework for the **development, training, and measurement of intelligent architectures** that move beyond the confines of traditional neural networks. Instead, it introduces **H networks**, a groundbreaking generalization of intelligent models based on **wave propagation** and **physical interactions**. This paradigm draws from the principles of phasorial physics, replacing neuron-inspired computation with architectures that are inherently tied to physical laws and interactions.
 
 ### **NLSON**  
 An innovative data exchange standard inspired by JSON, designed for intelligent entities capable of interpreting natural language, conceptualizing, and developing. NLSON optimizes communication between intelligent systems, elevating data exchanges to a deeper contextual level.
