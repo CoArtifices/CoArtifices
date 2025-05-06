@@ -31,10 +31,4 @@ ideas and comments (thanks):
 [heware@gmail.com](mailto:heware@gmail.com)
 
 Sponsor contributions (thanks):
-[paypal.me](https://www.paypal.me/heware)
-
-Bitcoin deposit address:
-1GVddz2tckWw6BeyvKexGaCXMDKedNYHmo
-
-Ethereum deposit address:
-0x6b6eff3de4c8c5025adf54bfb6f25ed7b1562cd7
+Soon...
