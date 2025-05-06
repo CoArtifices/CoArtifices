@@ -3,7 +3,7 @@
 ## **Who we are**
 We are a small team still in its early stages of formation, with the purpose of redefining artificial intelligence, advanced computing and its intersections with physics and engineering. In our repository, will be address innovative paradigms that transform the way we understand and design intelligent systems based on novel mathematics
 
-## **Featured Projects**
+## **projects in development (public soon)**
 ### **PhasorFlow**
 Arevolutionary library bridging the gap between intelligence and the physical world. PħF is not merely a new paradigm in artificial intelligence—it is an inquiry into the very nature of intelligence itself. 
 
