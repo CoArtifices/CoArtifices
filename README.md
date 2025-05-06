@@ -1,7 +1,7 @@
 # Consciousness + Artifices
 
 ## **Who we are**
-We are a small team still in its early stages of formation, with the purpose of redefining artificial intelligence, advanced computing, and the intersections of physics, mathematics, and engineering. In our repository, will be address innovative paradigms that transform the way we understand and design intelligent systems.
+We are a small team still in its early stages of formation, with the purpose of redefining artificial intelligence, advanced computing and its intersections with physics and engineering. In our repository, will be address innovative paradigms that transform the way we understand and design intelligent systems based on novel mathematics
 
 ## **Featured Projects**
 ### **PhasorFlow**
