@@ -22,6 +22,8 @@ A revolutionary numerical system that redefines the concept of floating-point nu
 - Innovative engineering for intelligent systems  
 
 ## **Collaboration**
+There is a vehicle that can accelerate us on this path of general rethinking of much of what we know today: research in the theory of intelligence, because theoretical intelligence is in everything: in the mathematics that gives logical expression to physics, in the physics that gives meaning and sustains engineering, and in that engineering that shapes the solution to our problems with technologies. In short, whatever your problem, surely in the field of understanding intelligence as a concept there will be not just one but multiple answers, as well as the attractiveness of its feasibility. If there's anything that must be done to yield more efficiently in the race to achieve great technological goals, that something is to understand once and for all the physical meaning of intelligence beyond mere philosophical assumptions or superficial mathematical equations. The mine of the technological advances necessary to face great challenges from now on lies in the tributary of theoretical intelligence.
+
 We are actively seeking collaboration in these areas. If you share our passion for exploring new frontiers in artificial intelligence, computing, and science, feel free to join us or support us financially. Your contribution can make a significant impact on the development of disruptive technologies.
 
 ## **Contact**
