@@ -15,6 +15,9 @@ An innovative data exchange standard inspired by JSON, designed for intelligent 
 ### **Fumbers**  
 A revolutionary numerical system that redefines the concept of floating-point numbers. Here, both the mantissa and exponent are represented by wave functions. These functions, defined by their cycles, enable the construction of numbers with theoretical infinite precision and magnitude. Operations, like addition, are performed directly in the domain of wave functions. While still under development, this approach promises to overcome the limitations of current standards and expand the scope of computational mathematics.
 
+### **DeepOS**
+Imagine a future where a spreadsheet, a board game, or a project management tool comes to life by simply pasting its rules and logic into a document. DeepOS is the core that makes this possible, interpreting your human language instructions and transforming them into executable actions.
+
 ## **Interests**
 - Cutting-edge artificial intelligence  
 - Novel computing paradigms  
