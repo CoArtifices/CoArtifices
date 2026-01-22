@@ -4,6 +4,14 @@
 We are a small team still in its early stages of formation, with the purpose of redefining artificial intelligence, advanced computing and its intersections with physics and engineering. In our repository, will be address innovative paradigms that transform the way we understand and design intelligent systems based on novel mathematics
 
 ## **projects in development (public soon)**
+
+### **Artificial-Manager**
+This project aims to develop and implement the software and models necessary to integrate the concept of an **Artificial Manager (AM)** into production lines and industrial departments.
+
+Unlike traditional automation, this system seeks to create an **intelligent management entity** capable of bidirectional interaction with its environment and human personnel.
+
+The **Artificial Manager** is an entity powered by local and remote computing that utilizes telemetry of process variables, big data analytics, neural networks, and computer vision. Its main purpose is to **complement and assist** the human manager in repetitive and content-generating tasks, enabling faster and more accurate decision-making.
+
 ### **PhasorFlow**
 Arevolutionary library bridging the gap between intelligence and the physical world. PħF is not merely a new paradigm in artificial intelligence—it is an inquiry into the very nature of intelligence itself. 
 
@@ -12,8 +20,8 @@ PħF provides a framework for the **development, training, and measurement of in
 ### **NLSON**  
 An innovative data exchange standard inspired by JSON, designed for intelligent entities capable of interpreting natural language, conceptualizing, and developing. NLSON optimizes communication between intelligent systems, elevating data exchanges to a deeper contextual level.
 
-### **Fumbers**  
-A revolutionary numerical system that redefines the concept of floating-point numbers. Here, both the mantissa and exponent are represented by wave functions. These functions, defined by their cycles, enable the construction of numbers with theoretical infinite precision and magnitude. Operations, like addition, are performed directly in the domain of wave functions. While still under development, this approach promises to overcome the limitations of current standards and expand the scope of computational mathematics.
+### **Zumbers**  
+A revolutionary numerical system that redefines the concept of floating-point numbers. Here, both the mantissa and exponent are represented by wave functions. These functions, enable the construction of numbers with theoretical infinite precision and magnitude. Operations, like addition, are performed directly in the domain of wave functions. While still under development, this approach promises to overcome the limitations of current standards and expand the scope of computational mathematics.
 
 ### **DeepOS**
 Imagine a future where a spreadsheet, a board game, or a project management tool comes to life by simply pasting its rules and logic into a document. DeepOS is the core that makes this possible, interpreting your human language instructions and transforming them into executable actions.
