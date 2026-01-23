@@ -26,7 +26,7 @@ Furthermore, the Bridge component acts as the intelligent translator of the ecos
 A revolutionary numerical system that redefines the concept of floating-point numbers. Here, both the mantissa and exponent are represented by wave functions. These functions, enable the construction of numbers with theoretical infinite precision and magnitude. Operations, like addition, are performed directly in the domain of wave functions. While still under development, this approach promises to overcome the limitations of current standards and expand the scope of computational mathematics.
 
 ### **ContextOS_**
-Imagine a future where a spreadsheet, a board game, or a project management tool comes to life by simply pasting its rules and logic into a document.
+Imagine a future where a spreadsheet, a board game, or a project management tool comes to life by simply pasting its rules and logic into a natural lenguage document.
 
 ContextOS_ is a revolutionary operating system designed to shift the paradigm of computation from traditional binary execution to autonomous contextual reasoning. Instead of managing hardware resources through sequential lines of code, ContextOS_ acts as a reasoning engine that synthesizes application logic and interfaces on the fly by interpreting natural language documents and real-world data retrieved from the internet. This approach eliminates the need for compiled software or static source code, allowing users to manifest complex digital experiences simply by providing the system with the necessary rules, context, and objectives in human language.
 
