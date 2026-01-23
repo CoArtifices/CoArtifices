@@ -15,7 +15,7 @@ The **Artificial Manager** is an entity powered by local and remote computing th
 ### **PhasorFlow**
 Arevolutionary library bridging the gap between intelligence and the physical world. PħF is not merely a new paradigm in artificial intelligence—it is an inquiry into the very nature of intelligence itself. 
 
-PħF provides a framework for the **development, training, and measurement of intelligent architectures** that move beyond the confines of traditional neural networks. Instead, it introduces **H networks**, a groundbreaking generalization of intelligent models based on **wave propagation** and **physical interactions**. This paradigm draws from the principles of phasorial physics, replacing neuron-inspired computation with architectures that are inherently tied to physical laws and interactions.
+PħF provides a framework for the **development, training, and measurement of intelligent architectures** that move beyond the confines of traditional neural networks. Instead, it introduces **H networks**, a groundbreaking generalization of intelligent models based on **physical interactions**. 
 
 ### **NLSON**  
 An innovative data exchange standard inspired by JSON, designed for intelligent entities capable of interpreting natural language, conceptualizing, and developing. NLSON optimizes communication between intelligent systems, elevating data exchanges to a deeper contextual level.
@@ -23,8 +23,13 @@ An innovative data exchange standard inspired by JSON, designed for intelligent 
 ### **Zumbers**  
 A revolutionary numerical system that redefines the concept of floating-point numbers. Here, both the mantissa and exponent are represented by wave functions. These functions, enable the construction of numbers with theoretical infinite precision and magnitude. Operations, like addition, are performed directly in the domain of wave functions. While still under development, this approach promises to overcome the limitations of current standards and expand the scope of computational mathematics.
 
-### **DeepOS**
-Imagine a future where a spreadsheet, a board game, or a project management tool comes to life by simply pasting its rules and logic into a document. DeepOS is the core that makes this possible, interpreting your human language instructions and transforming them into executable actions.
+### **ContextOS_**
+Imagine a future where a spreadsheet, a board game, or a project management tool comes to life by simply pasting its rules and logic into a document.
+
+ContextOS_ is a revolutionary operating system designed to shift the paradigm of computation from traditional binary execution to autonomous contextual reasoning. Instead of managing hardware resources through sequential lines of code, ContextOS_ acts as a reasoning engine that synthesizes application logic and interfaces on the fly by interpreting natural language documents and real-world data retrieved from the internet. This approach eliminates the need for compiled software or static source code, allowing users to manifest complex digital experiences simply by providing the system with the necessary rules, context, and objectives in human language.
+
+To bridge the gap between open-ended AI creativity and the rigorous demands of modern enterprises, ContextOS_ introduces a secure framework for verified and encrypted context bundles. This allows organizations to deploy official services while maintaining strict control over brand integrity, security protocols, and proprietary logic, ensuring a consistent yet deeply personalized experience for every user. By combining the flexibility of generative intelligence with a robust architectural kernel, ContextOS_ transforms every document into a living program and every conversation into a powerful, tailor-made digital environment.
+
 
 ## **Interests**
 - Cutting-edge artificial intelligence  
